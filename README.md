@@ -1,4 +1,4 @@
-# Group YY - {Short snappy Title of your project}
+# Group 47 - Unemployment and its effect on us
 
 - Your title can change over time.
 
