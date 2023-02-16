@@ -1,4 +1,4 @@
-# Group 47 - Unemployment and its effect on us
+# Group 47 - Exploring the Connections Between Inflation, Interest, and Unemployment Rates in Low, Mid, and High-Income Countries
 
 - Your title can change over time.
 
@@ -38,9 +38,9 @@ It is likely that the data was compiled from various sources, including official
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Person 1: Berat Celik - I am from Turkey and I am ready to find out more about this project!
+- Person 2: Shikari King - I am from Canada and I am really interested in this project.
+- Person 3: Binh Dong - I am ready to work on this project and examine economic data!
 
 ## Images
 
