@@ -8,6 +8,14 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
+In order to learn more about the connections between these important economic indicators, our team is interested in examining the "Inflation, Interest, and Unemployment Rate" dataset. With regard to various income levels and nations, our initiative seeks to offer a thorough analysis of these variables.
+
+We aim to understand the causes of unemployment, interest rates, and inflation through our analysis, as well as the effects that prospective policy changes might have on these variables. In order to present a clear and illuminating picture of the data, we will make use of regression analysis, data visualization, and descriptive statistics.
+
+We also intend to use the dataset to create a user-friendly dashboard that will let consumers explore the facts and conclusions we have drawn. Ultimately, we think that our study will offer insightful information that policymakers, economists, and researchers may utilize to comprehend and address global economic concerns.
+
+## Describe your dataset in about 150-200 words
+
 ### Which company/agency/organization provided this data?
 
 The data for this dataset was sourced from various international organizations such as the World Bank, International Monetary Fund, and others.
@@ -27,10 +35,6 @@ The purpose of this dataset seems to be to provide a resource for economic analy
 ### How was your data collected? Was it a human collecting the data? Historical records digitized? Server logs?
 
 It is likely that the data was compiled from various sources, including official government statistics and reports from international organizations. It is possible that the data was collected and inputted by a human researcher or team of researchers, but it is also possible that some of the data was digitized from historical records or other sources. 
-
-## Describe your dataset in about 150-200 words
-
-{Add your stuff here}
 
 ## Team Members
 
