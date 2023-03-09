@@ -40,7 +40,6 @@ It is likely that the data was compiled from various sources, including official
 
 - Person 1: Berat Celik - I am from Turkey and I am ready to find out more about this project!
 - Person 2: Shikari King - I am from Canada and I am really interested in this project.
-- Person 3: Binh Dong - I am ready to work on this project and examine economic data!
 
 ## Images
 
