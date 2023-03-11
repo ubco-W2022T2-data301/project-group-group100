@@ -1,6 +1,4 @@
-# Group 47 - Exploring the Connections Between Inflation, Interest, and Unemployment Rates in Low, Mid, and High-Income Countries
-
-- Your title can change over time.
+# Group 47 - Global Patterns and Correlates of Happiness: Exploring Regional Variations and Identifying Key Intervention Areas
 
 ## Milestones
 
