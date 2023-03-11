@@ -6,33 +6,29 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
-In order to learn more about the connections between these important economic indicators, our team is interested in examining the "Inflation, Interest, and Unemployment Rate" dataset. With regard to various income levels and nations, our initiative seeks to offer a thorough analysis of these variables.
+We are interested in examining the World Happiness Report 2015–2022 dataset to learn more about the critical elements that influence happiness levels and to pinpoint areas that may use some help in promoting fair and long-lasting well–being results. More specifically, we want to investigate the association between happiness levels and economic variables like GDP per capita, social support, and life expectancy, as well as other demographic variables like age, gender, and educational attainment.
 
-We aim to understand the causes of unemployment, interest rates, and inflation through our analysis, as well as the effects that prospective policy changes might have on these variables. In order to present a clear and illuminating picture of the data, we will make use of regression analysis, data visualization, and descriptive statistics.
+Identifying any notable geographical variations in happiness levels and associated variables is another area of study, as is investigating how these variations could affect general levels of happiness and life satisfaction. Also, we intend to look at the relationships between many elements that affect overall happiness, such as wealth, social support, freedom, altruism, and corruption, as well as pinpoint critical areas for action to enhance well-being results.
 
-We also intend to use the dataset to create a user-friendly dashboard that will let consumers explore the facts and conclusions we have drawn. Ultimately, we think that our study will offer insightful information that policymakers, economists, and researchers may utilize to comprehend and address global economic concerns.
+With this dataset, we have the opportunity to create a user-facing dashboard that will enable users to explore various features and variables as well as spot patterns and trends in the data.
 
 ## Describe your dataset in about 150-200 words
 
 ### Which company/agency/organization provided this data?
-
-The data for this dataset was sourced from various international organizations such as the World Bank, International Monetary Fund, and others.
+The dataset was sourced from the World Happiness Report 2015-2022, which is an annual report published by the United Nations Sustainable Development Solutions Network. The report contains data on happiness levels and related factors for countries around the world, and it is produced in collaboration with various national governments, academic institutions, and other organizations
 
 ### What is in your data?
-
-The dataset includes information on inflation, interest rates, and unemployment rates for several countries. For each country and year, the dataset provides the corresponding inflation rate, interest rate, and unemployment rate. This information can be used to analyze the macroeconomic trends of each country, explore the relationships between these different variables, and identify patterns and trends over time.
+The World Happiness Report 2015-2022 dataset contains information on happiness levels and related factors for 153 countries around the world. The dataset includes variables such as the country name, regional indicator, happiness score, Logged GDP per capita, social support, and healthy life expectancy (healthy life expectancy at birth in the country). These features provide insights into the key factors that contribute to happiness levels and how they vary across different regions of the world.
 
 ### When was your data collected (for example, for which years)?
-
-The data spans a time period from the 1960s to 2019. It is clear that the data reflects a historical view of macroeconomic trends and conditions for several countries.
+The data spans a time period from the 2015s to 2022. It is clear that the data reflects a short-time view of happiness trends and conditions in several countries.
 
 ### What is the purpose of your dataset?
-
-The purpose of this dataset seems to be to provide a resource for economic analysis and time-series forecasting. The dataset may be useful for policymakers and government officials interested in making data-driven economic policy and planning decisions. 
+The purpose of the World Happiness Report 2015-2022 dataset is to provide a comprehensive overview of happiness levels and related factors for countries around the world and to promote the use of data-driven policy-making to improve well-being outcomes for individuals and communities. The dataset is intended to serve as a resource for researchers, policymakers, and other stakeholders to understand the key factors that contribute to happiness levels.
 
 ### How was your data collected? Was it a human collecting the data? Historical records digitized? Server logs?
 
-It is likely that the data was compiled from various sources, including official government statistics and reports from international organizations. It is possible that the data was collected and inputted by a human researcher or team of researchers, but it is also possible that some of the data was digitized from historical records or other sources. 
+The World Happiness Report 2015-2022 dataset was collected primarily through the Gallup World Poll survey, along with data from other sources such as the World Values Survey, World Bank, and World Health Organization. The data was likely collected and analyzed by both humans and machines.
 
 ## Team Members
 
@@ -47,11 +43,11 @@ It is likely that the data was compiled from various sources, including official
 
 ## References
 
-Kaggle: https://www.kaggle.com/datasets/prasertk/inflation-interest-and-unemployment-rate
+Kaggle: https://www.kaggle.com/datasets/mathurinache/world-happiness-report?select=2020.csv
 
-The data source that kaggle used
+The data source that kaggle used:
 
-Data source: https://data.worldbank.org
+Data source: https://worldhappiness.report/
 
 
 
