@@ -1,4 +1,4 @@
-Overall rank,Country,Happiness Score,Economy (GDP per Capita),Social support,Health (Life Expectancy),Freedom to make life choices,Generosity,Perceptions of corruption,Region
+Happiness Rank,Country,Happiness Score,Economy (GDP per Capita),Social support,Health (Life Expectancy),Freedom to make life choices,Generosity,Perceptions of corruption,Region
 1,Finland,7.632,1.305,1.592,0.874,0.681,0.202,0.393,Western Europe
 2,Norway,7.594,1.456,1.582,0.861,0.686,0.286,0.34,Western Europe
 3,Denmark,7.555,1.351,1.59,0.868,0.683,0.284,0.408,Western Europe

@@ -1,4 +1,4 @@
-Overall rank,Country,Happiness Score,Dystopia (1.83) + residual,Explained by: GDP per capita,Explained by: Social support,Explained by: Healthy life expectancy,Explained by: Freedom to make life choices,Explained by: Generosity,Explained by: Perceptions of corruption,Region
+Happiness Rank,Country,Happiness Score,Dystopia (1.83) + residual,Explained by: GDP per capita,Explained by: Social support,Explained by: Healthy life expectancy,Explained by: Freedom to make life choices,Explained by: Generosity,Explained by: Perceptions of corruption,Region
 1,Finland,7.821,2.518,1.892,1.258,0.775,0.736,0.109,0.534,Western Europe
 2,Denmark,7.636,2.226,1.953,1.243,0.777,0.719,0.188,0.532,Western Europe
 3,Iceland,7.557,2.32,1.936,1.32,0.803,0.718,0.27,0.191,Western Europe
