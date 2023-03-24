@@ -33,8 +33,6 @@ The World Happiness Report 2015-2022 dataset was collected primarily through the
 
 ## Images
 
-{You should use this area to add a screenshot of an interesting plot, or of your dashboard}
-
 <img src ="images/World happiness.png" width="1000px">
 
 ## References
