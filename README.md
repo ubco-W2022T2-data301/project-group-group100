@@ -33,7 +33,7 @@ The World Happiness Report 2015-2022 dataset was collected primarily through the
 
 ## Images
 
-<img src ="images/World happiness.png" width="1000px">
+<img src ="images/WorldHappiness.png" width="750px">
 
 ## References
 
