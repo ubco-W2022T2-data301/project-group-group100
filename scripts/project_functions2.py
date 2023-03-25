@@ -8,6 +8,13 @@ import geoplot as gplt
 
 
 def create_world_map_happiness(date_year_data_frame_happiness, title):
+    """
+    Creates a heat world map based on happiness.
+    date_year_data_frame_happiness(Dataframe) = Dataframe that is the year
+    title(String) = The title of the plot
+    
+    Returns None
+    """
     # Load the world map data
     world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
 
