@@ -13,7 +13,7 @@ def create_world_map_happiness(date_year_data_frame_happiness, title):
 
     # Convert the projection of the world map to WGS84
     world = world.to_crs(epsg=4326)
-    data = date_year_data_frame.groupby('Country')['Happiness Score'].mean().reset_index()
+    data = date_year_data_frame_happiness.groupby('Country')['Happiness Score'].mean().reset_index()
 
     data.rename(columns={'Country': 'name'}, inplace=True)
 
