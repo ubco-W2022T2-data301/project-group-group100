@@ -7,7 +7,7 @@ import geopandas as gpd
 import geoplot as gplt
 
 
-def create_world_map(date_year_data_frame):
+def create_world_map_happiness(date_year_data_frame_happiness, title):
     # Load the world map data
     world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
 
@@ -30,7 +30,7 @@ def create_world_map(date_year_data_frame):
     # Create the heatmap on the world map
     fig, ax = plt.subplots(figsize=(12, 4))
     world_data.plot(column='Happiness Score', cmap='flare', legend=True, ax=ax, vmin=0., vmax=10)
-    ax.set_title('Worldwide Happiness 2022', fontsize = 20)
+    ax.set_title(title, fontsize = 20)
     plt.show()
     
     return None
