@@ -1,9 +1,5 @@
 # Group 47 - Global Patterns and Correlates of Happiness: Exploring Regional Variations and Identifying Key Intervention Areas
 
-## Milestones
-
-Details for Milestone are available on Canvas (left sidebar, Course Project).
-
 ## Describe your topic/interest in about 150-200 words
 
 We are interested in examining the World Happiness Report 2015–2022 dataset to learn more about the critical elements that influence happiness levels and to pinpoint areas that may use some help in promoting fair and long-lasting well–being results. More specifically, we want to investigate the association between happiness levels and economic variables like GDP per capita, social support, and life expectancy, as well as other demographic variables like age, gender, and educational attainment.
@@ -37,9 +33,7 @@ The World Happiness Report 2015-2022 dataset was collected primarily through the
 
 ## Images
 
-{You should use this area to add a screenshot of an interesting plot, or of your dashboard}
-
-<img src ="images/test.png" width="100px">
+<img src ="images/WorldHappiness.png" width="750px">
 
 ## References
 
