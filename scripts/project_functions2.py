@@ -50,8 +50,9 @@ def region_barplot(DataAllRegion,column_name):
     # Set the axis labels and title
     ax.set_xlabel(column_name, fontsize=16)
     ax.set_ylabel('Region', fontsize=16)
-    ax.set_title(f'Mean {column_name} Score by Region from 2015-2021', fontsize=20)
+    ax.set_title(f'Mean {column_name} Score by Region from 2015-2022', fontsize=20)
 
     # Show the plot
     plt.show()
+
     return None
