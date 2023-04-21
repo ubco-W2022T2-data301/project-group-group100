@@ -20,9 +20,7 @@ The second chart is a stacked horizontal bar chart displaying the factors contri
 
 ![](/images/1EDA2.png)
 
-Upon analyzing the available data, we inferred that social support is positively and strongly correlated with happiness scores. The correlation between these two variables can be considered moderate to strong, with a significant number of data points ranging from 0.8 to 1.0.
-
-Numerous studies have demonstrated that social support is a critical determinant of individual well-being and happiness. Social support can be defined as emotional, instrumental, or informational resources provided by individuals' social networks. These resources can help individuals cope with stress and adversity, enhance their sense of belonging, and foster positive relationships.
+Upon analyzing the available data, we inferred that social support is positively and strongly correlated with happiness scores. The correlation between these two variables can be considered moderate to strong, with a significant number of data points ranging from 0.8 to 1.0.Numerous studies have demonstrated that social support is a critical determinant of individual well-being and happiness. Social support can be defined as emotional, instrumental, or informational resources provided by individuals' social networks. These resources can help individuals cope with stress and adversity, enhance their sense of belonging, and foster positive relationships.
 
 ![](/images/2EDA1.png)
 
@@ -35,8 +33,7 @@ By analyzing the chart, it is clear that mean happiness scores vary across regio
 
 We created visualizations, such as scatter plots and correlation matrices, to analyze the relationships between happiness scores and contributing factors. Our findings indicated strong positive correlations between happiness scores and GDP per capita, social support, and life expectancy. Conversely, weaker correlations were found between happiness and generosity or perceptions of corruption.
 
-The box plot displays the distribution of happiness scores across different regions. Each region is represented by a colored box, showing the interquartile range (IQR) and the median happiness score. Whiskers indicate the range of scores within 1.5 IQR from the box. The chart reveals that Northern America and ANZ has the highest median happiness score, while  Western Europe follows second with a 0.056 points difference in median score.
-South Asia has the lowest. Notably, there is considerable variation in happiness scores within each region.
+The box plot displays the distribution of happiness scores across different regions. Each region is represented by a colored box, showing the interquartile range (IQR) and the median happiness score. The chart reveals that Northern America and ANZ has the highest median happiness score, while  Western Europe follows second with a 0.056 points difference in median score. South Asia has the lowest. Notably, there is considerable variation in happiness scores within each region.
 
 ![](/images/1RQ1.png)
 
