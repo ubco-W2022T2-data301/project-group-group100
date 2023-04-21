@@ -51,14 +51,7 @@ In conclusion, our analysis of the happiness dataset and various visualizations 
 
 The K-means clustering and 3D scatter plots showcased distinct clusters, helping us identify countries and regions that share common characteristics in terms of happiness and its contributing factors. This knowledge can guide policymakers in designing targeted interventions to enhance key areas and promote equitable well-being outcomes.
 
-Our analysis suggests that interventions focusing on enhancing economic prosperity, social support networks, and health outcomes can significantly improve overall happiness levels. Some evidence-based interventions to consider include:
-
-1. **Economic prosperity**: Implementing policies that promote economic growth, job creation, and social mobility can improve living standards and enhance overall well-being.
-2. **Social support networks**: Strengthening social connections through community-based programs, mental health support, and social services can foster a sense of belonging and enhance well-being.
-3. **Health outcomes**: Investing in quality healthcare, health promotion, and preventive measures can lead to improved physical and mental health, contributing to higher happiness levels.
-
 To promote sustained well-being outcomes over time, it is essential to focus on a multi-faceted approach that encompasses economic development, social support systems, healthcare, education, and good governance. By understanding the correlations between these factors and happiness, policymakers can develop and implement more effective interventions, ultimately improving the quality of life for their citizens.
-
 
 ### Question 2 + Results
 **How do different factors contributing to happiness, such as income, social support, freedom, and corruption, vary across different regions in the world, and how do these regional differences affect overall levels of happiness and life satisfaction?**
@@ -84,6 +77,12 @@ These findings emphasize the significant role played by economic and social fact
 ### Summary/Conclusion
 
 In conclusion, our project provided valuable insights into global happiness patterns and correlates, highlighting key areas for intervention. Our findings suggest that economic prosperity, social support networks, and health outcomes play significant roles in determining overall happiness levels. Therefore, evidence-based interventions targeting these key areas can promote sustained and equitable well-being outcomes worldwide. Additionally, the identified geographical disparities in happiness warrant region-specific interventions to address unique regional challenges and foster global happiness equity.
+
+Our analysis suggests that interventions focusing on enhancing economic prosperity, social support networks, and health outcomes can significantly improve overall happiness levels. Some evidence-based interventions to consider include:
+
+1. **Economic prosperity**: Implementing policies that promote economic growth, job creation, and social mobility can improve living standards and enhance overall well-being.
+2. **Social support networks**: Strengthening social connections through community-based programs, mental health support, and social services can foster a sense of belonging and enhance well-being.
+3. **Health outcomes**: Investing in quality healthcare, health promotion, and preventive measures can lead to improved physical and mental health, contributing to higher happiness levels.
 
 By using data-driven approaches, policymakers and stakeholders can make informed decisions to enhance well-being and improve the quality of life for individuals worldwide. Our project's findings contribute to the ongoing conversation around happiness and well-being, emphasizing the importance of addressing both global and regional factors that influence happiness levels.
 
