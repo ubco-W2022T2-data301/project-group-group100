@@ -16,10 +16,14 @@ First chart is a horizontal bar chart that groups the top 10 happiest countries 
 
 ![](/images/1EDA1.png)
 
+Second chart is a stacked horizontal bar chart that displays the factors that contribute to overall happiness in the top 10 happiest countries. By identifying the contributing factors that have the most impact on overall happiness, we gained insights into which areas require more attention and identify key areas for intervention. This chart wass useful for answering our research question by providing a visual representation of the contributing factors to overall happiness in the top 10 happiest countries.
+
+![](/images/1EDA2.png)
+
+Based on the data, it can be said that social support is moderately to strongly correlated with happiness score, as many data points fall within the range of 0.8-1.0
 
 ![](/images/2EDA1.png)
 
-Based on the data, it can be said that social support is moderately to strongly correlated with happiness score, as many data points fall within the range of 0.8-1.0
 
 ![](/images/2EDA2.png)
 
