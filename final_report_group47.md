@@ -12,9 +12,10 @@ Here are the links for the notebooks we used:
 
 Our initial exploratory data analysis revealed interesting patterns and trends in happiness levels across different countries and regions. We used various visualization techniques, such as bar charts, scatter plots, and choropleth maps, to explore the relationships between happiness scores and the different contributing factors included in the dataset. These visualizations allowed us to identify potential areas for further investigation.
 
-Student 1:
+First chart is a horizontal bar chart that groups the top 10 happiest countries by region and color-codes them accordingly. This chart is useful for gaining a deeper understanding of which regions have the highest levels of overall happiness and how the top 10 countries from each region compare to one another. By completing this task, we identified which regions may require more attention in terms of promoting overall well-being and identify key areas for intervention.
 
-Student 2:
+![](/images/1EDA1.png)
+
 
 ![](/images/2EDA1.png)
 ![](/images/2EDA2.png)
