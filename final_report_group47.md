@@ -18,7 +18,12 @@ First chart is a horizontal bar chart that groups the top 10 happiest countries 
 
 
 ![](/images/2EDA1.png)
+
+Based on the data, it can be said that social support is moderately to strongly correlated with happiness score, as many data points fall within the range of 0.8-1.0
+
 ![](/images/2EDA2.png)
+
+Looking at this chart, I see the mean happiness over time and notice that different regions have varying levels of happiness. I observe that North America and Western Europe have much higher happiness scores, and I want to investigate why they are the happiest regions on average. To do so, I will compare different metrics to determine which factors contribute to happiness.
 
 ### Question 1 
 **Is there a significant correlation between different factors that contribute to overall happiness, such as income, social support, freedom, generosity, and corruption, and how can this correlation be used to identify key areas for intervention? Additionally, what evidence-based interventions could be implemented to enhance these key areas and promote sustained and equitable well-being outcomes over time?**
