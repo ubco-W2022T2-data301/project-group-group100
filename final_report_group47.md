@@ -2,6 +2,8 @@
 
 ### Introduction:
 
+Our project aimed to explore global patterns and correlates of happiness using the World Happiness Report 2015-2022 dataset. We investigated the relationship between happiness levels and economic and demographic variables, identified geographical variations, and pinpointed critical areas for intervention. The purpose of our project was to provide insights into the key factors that contribute to happiness levels and promote data-driven policy-making to improve well-being outcomes on a global scale. We believed that our project was important because it had the potential to inform policymakers and stakeholders about the critical elements that influence happiness levels and to identify areas for intervention to promote well-being outcomes.
+
 ### Exploratory Data Analysis: 
 
 ### Question 1 
