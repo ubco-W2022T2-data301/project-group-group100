@@ -20,14 +20,15 @@ Second chart is a stacked horizontal bar chart that displays the factors that co
 
 ![](/images/1EDA2.png)
 
-Based on the data, it can be said that social support is moderately to strongly correlated with happiness score, as many data points fall within the range of 0.8-1.0
+After analyzing the available data, it can be inferred that social support is strongly and positively correlated with happiness score. The correlation between these two variables can be considered moderate to strong, as a significant number of data points fall within the range of 0.8 to 1.0.
+
+Various studies have shown that social support is a critical determinant of individual well-being and happiness. Social support can be defined as the availability of emotional, instrumental, or informational resources provided by individuals' social networks. These resources can help individuals cope with stress and adversity, enhance their sense of belonging, and foster positive relationships.
 
 ![](/images/2EDA1.png)
 
+Upon analyzing the chart, it is evident that mean happiness scores vary across regions over time, with North America and Western Europe exhibiting consistently high scores. To investigate the factors contributing to these regions' higher happiness levels, a comparative analysis of various metrics, such as economic indicators, social support systems, health outcomes, and environmental factors, will be conducted. This analysis can provide valuable insights into promoting well-being and happiness in other regions and potentially lead to more equitable global happiness levels.
 
 ![](/images/2EDA2.png)
-
-Looking at this chart, I see the mean happiness over time and notice that different regions have varying levels of happiness. I observe that North America and Western Europe have much higher happiness scores, and I want to investigate why they are the happiest regions on average. To do so, I will compare different metrics to determine which factors contribute to happiness.
 
 ### Question 1 + Results
 **Is there a significant correlation between different factors that contribute to overall happiness, such as income, social support, freedom, generosity, and corruption, and how can this correlation be used to identify key areas for intervention? Additionally, what evidence-based interventions could be implemented to enhance these key areas and promote sustained and equitable well-being outcomes over time?**
