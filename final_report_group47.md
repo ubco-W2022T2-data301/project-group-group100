@@ -29,12 +29,36 @@ Based on the data, it can be said that social support is moderately to strongly 
 
 Looking at this chart, I see the mean happiness over time and notice that different regions have varying levels of happiness. I observe that North America and Western Europe have much higher happiness scores, and I want to investigate why they are the happiest regions on average. To do so, I will compare different metrics to determine which factors contribute to happiness.
 
-### Question 1 
+### Question 1 + Results
 **Is there a significant correlation between different factors that contribute to overall happiness, such as income, social support, freedom, generosity, and corruption, and how can this correlation be used to identify key areas for intervention? Additionally, what evidence-based interventions could be implemented to enhance these key areas and promote sustained and equitable well-being outcomes over time?**
 
 We created visualizations, such as scatter plots and correlation matrices, to analyze the relationships between happiness scores and the contributing factors. Our findings indicated strong positive correlations between happiness levels and factors like income, social support, and freedom, while there were negative correlations with corruption. These results suggest that targeting these key areas for intervention could potentially lead to improved well-being outcomes. Evidence-based interventions could include implementing policies to reduce income inequality, promoting social cohesion, and addressing corruption.
 
-### Question 2
+The box plot displays the distribution of happiness scores across different regions. Each region is represented by a colored box, showing the interquartile range (IQR) and the median happiness score. Whiskers indicate the range of scores within 1.5 IQR from the box. The chart reveals that Northern America and ANZ has the highest median happiness score, while  Western Europe follows second with a 0.056 points difference in median score.
+South Asia has the lowest. Notably, there is considerable variation in happiness scores within each region.
+
+![](/images/1RQ1.png)
+
+In this 3D scatter plot, K-means clustering has grouped countries into seven clusters based on generosity, healthy life expectancy, and perceptions of corruption. The distinct separation between clusters indicates that these features effectively capture variations in happiness across different countries. The more densely packed clusters, such as the one in the bottom left corner, suggest that countries within those groups exhibit similar levels of generosity, healthy life expectancy, and corruption perceptions. This is particularly relevant as it highlights the importance of these factors in shaping national happiness levels.
+
+Countries in the densely packed cluster at the bottom left corner might include less developed countries or those facing social and economic challenges, such as Afghanistan, Yemen, or Haiti. These countries tend to exhibit lower levels of generosity, healthy life expectancy, and higher perceptions of corruption. In contrast, countries in the more dispersed clusters could include developed nations with better socioeconomic conditions, such as Norway, Switzerland, or Denmark. These countries generally have higher levels of generosity, healthy life expectancy, and lower perceptions of corruption.
+
+![](/images/1RQ2.png)
+
+The 3D scatter plot displays regions based on generosity, healthy life expectancy, and perceptions of corruption. North America and ANZ and Western Europe stands out with high healthy life expectancy, low corruption perception, and moderate generosity. Conversely, Sub-Saharan Africa has lower healthy life expectancy, higher corruption perception, and varied generosity levels. South Asia and the Middle East and North Africa share similar patterns, with low healthy life expectancy and high corruption perception. Central and Eastern Europe, and Latin America and the Caribbean demonstrate intermediate values, indicating regional differences in happiness determinants.
+
+![](/images/1RQ3.png)
+
+In conclusion, our analysis of the happiness dataset and various visualizations have shown a significant correlation between factors such as income, social support, freedom, generosity, and corruption, and overall happiness. The stacked bar chart of the 10 least happy countries provided insights into the contributing factors, highlighting the importance of GDP per capita, social support, and healthy life expectancy. The scatter plots and clustering further emphasized regional differences in these factors, revealing specific patterns and potential areas for intervention.
+
+The K-means clustering and 3D scatter plots showcased distinct clusters, helping us identify countries and regions that share common characteristics in terms of happiness and its contributing factors. This knowledge can guide policymakers in designing targeted interventions to enhance key areas and promote equitable well-being outcomes.
+
+Moreover, the linear regression model demonstrated a reasonably good performance in predicting happiness scores based on the selected features, which can be utilized to inform evidence-based interventions for future improvements in happiness.
+
+To promote sustained well-being outcomes over time, it is essential to focus on a multi-faceted approach that encompasses economic development, social support systems, healthcare, education, and good governance. By understanding the correlations between these factors and happiness, policymakers can develop and implement more effective interventions, ultimately improving the quality of life for their citizens.
+
+
+### Question 2 + Results
 **How do different factors contributing to happiness, such as income, social support, freedom, and corruption, vary across different regions in the world, and how do these regional differences affect overall levels of happiness and life satisfaction?**
 
 We used choropleth maps and regional box plots to visualize happiness levels and their associated factors across different regions of the world. Our analysis revealed substantial regional variations in happiness scores and the key influencing factors. For instance, we found that income and social support tend to be higher in Western countries, while freedom and corruption levels vary more widely across regions. These regional differences could affect overall levels of happiness and life satisfaction, highlighting the importance of considering regional contexts when designing interventions.
