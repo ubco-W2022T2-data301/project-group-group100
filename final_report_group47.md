@@ -39,6 +39,11 @@ We used choropleth maps and regional box plots to visualize happiness levels and
 ![](/images/2RQ2.png)
 ![](/images/2RQ3.png)
 
+#### Results:
+
+Upon reviewing all the visualizations and bar graphs presented, it can be concluded that North America and Western Europe are currently the happiest regions in the world. This finding is attributed to several factors, including North America's leadership in Logged GDP per capita, Healthy Life Expectancy, Ladder Score in Dystopia, and Social Support. Meanwhile, Western Europe is ranked first in Economy (GDP per capita), Health (Life Expectancy), and Trust in Government (perceptions of corruption).
+
+Overall, these findings suggest that economic and social factors play significant roles in determining the happiness levels of different regions. Further studies and analysis can shed more light on the specific factors driving the observed trends and inform policy decisions aimed at improving the well-being of populations worldwide.
 
 ### Summary/Conclusion
 
