@@ -11,7 +11,9 @@ Here are the links for the notebooks we used:
 ### Exploratory Data Analysis: 
 
 ### Question 1 
+**Is there a significant correlation between different factors that contribute to overall happiness, such as income, social support, freedom, generosity, and corruption, and how can this correlation be used to identify key areas for intervention? Additionally, what evidence-based interventions could be implemented to enhance these key areas and promote sustained and equitable well-being outcomes over time?**
 
 ### Question 2
+**How do different factors contributing to happiness, such as income, social support, freedom, and corruption, vary across different regions in the world, and how do these regional differences affect overall levels of happiness and life satisfaction?**
 
 ### Summary/Conclusion
