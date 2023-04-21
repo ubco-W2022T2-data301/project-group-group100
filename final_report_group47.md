@@ -64,15 +64,23 @@ To promote sustained well-being outcomes over time, it is essential to focus on 
 
 We used choropleth maps and regional box plots to visualize happiness levels and their associated factors across different regions of the world. Our analysis revealed substantial regional variations in happiness scores and the key influencing factors. For instance, we found that income and social support tend to be higher in Western countries, while freedom and corruption levels vary more widely across regions. These regional differences could affect overall levels of happiness and life satisfaction, highlighting the importance of considering regional contexts when designing interventions.
 
+The bar graph depicting the Mean Logged GDP per capita score by region highlights North America and Western Europe as the leading regions in terms of economic prosperity. This observation aligns with previous research that has established a positive correlation between GDP per capita and overall well-being. While economic prosperity is an important determinant of happiness, it is essential to consider other factors such as social support, health outcomes, and environmental sustainability, which also contribute to well-being. Therefore, policymakers and stakeholders must strive for a comprehensive approach to promoting happiness and well-being, considering a range of factors that vary across regions.
+
 ![](/images/2RQ.png)
+
+The world map visualization served as a powerful tool in our investigation of the variations in happiness levels across different regions of the world. Our analysis revealed that the regions of Western Europe and North America emerged as the frontrunners in terms of happiness levels. This discovery aligns with previous research that has identified a range of factors, such as robust social support systems, high GDP per capita, and personal freedom, as key contributors to overall well-being.
+
 ![](/images/2RQ2.png)
+
+The bar graph showcasing the Mean Social Support Score by region serves as a testament to the integral role of social support systems in fostering overall well-being. Our analysis revealed that the regions of North America and Western Europe emerged as the leaders in social support scores, indicative of their robust social structures, emphasis on community engagement, and effective public policies. 
+
 ![](/images/2RQ3.png)
 
 #### Results:
 
-Upon reviewing all the visualizations and bar graphs presented, it can be concluded that North America and Western Europe are currently the happiest regions in the world. This finding is attributed to several factors, including North America's leadership in Logged GDP per capita, Healthy Life Expectancy, Ladder Score in Dystopia, and Social Support. Meanwhile, Western Europe is ranked first in Economy (GDP per capita), Health (Life Expectancy), and Trust in Government (perceptions of corruption).
+After a comprehensive analysis of the visualizations and bar graphs presented, it is clear that North America and Western Europe currently have the highest happiness levels among all the regions in the world. Our investigation revealed that this finding is attributed to several factors, including North America's leadership in Logged GDP per capita, Healthy Life Expectancy, Ladder Score in Dystopia, and Social Support. Additionally, Western Europe's top-ranking factors include Economy (GDP per capita), Health (Life Expectancy), and Trust in Government (perceptions of corruption).
 
-Overall, these findings suggest that economic and social factors play significant roles in determining the happiness levels of different regions. Further studies and analysis can shed more light on the specific factors driving the observed trends and inform policy decisions aimed at improving the well-being of populations worldwide.
+These findings emphasize the significant role played by economic and social factors in determining the happiness levels of different regions. Policymakers and stakeholders can utilize this information to develop effective interventions that target the specific needs and challenges of different regions and promote overall well-being. Further research can shed more light on the specific factors driving these observed trends, contributing to the development of more comprehensive and targeted policy decisions aimed at improving the well-being of populations worldwide.
 
 ### Summary/Conclusion
 
