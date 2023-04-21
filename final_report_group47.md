@@ -22,6 +22,10 @@ We created visualizations, such as scatter plots and correlation matrices, to an
 
 We used choropleth maps and regional box plots to visualize happiness levels and their associated factors across different regions of the world. Our analysis revealed substantial regional variations in happiness scores and the key influencing factors. For instance, we found that income and social support tend to be higher in Western countries, while freedom and corruption levels vary more widely across regions. These regional differences could affect overall levels of happiness and life satisfaction, highlighting the importance of considering regional contexts when designing interventions.
 
+![](/images/2EDA1.png)
+![](/images/2EDA2.png)
+
+
 ### Summary/Conclusion
 
 Our analysis of the World Happiness Report 2015-2022 dataset revealed strong relationships between happiness levels and various contributing factors, such as income, social support, freedom, generosity, and corruption. We identified significant regional variations in happiness scores and their influencing factors, which could affect overall levels of happiness and life satisfaction. These insights can be used to guide data-driven policy-making to improve well-being outcomes for individuals and communities. Furthermore, we developed a user-facing dashboard that allows users to explore the dataset and discover patterns and trends related to happiness levels and their correlates
