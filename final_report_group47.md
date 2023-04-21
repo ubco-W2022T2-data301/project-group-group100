@@ -10,10 +10,18 @@ Here are the links for the notebooks we used:
 
 ### Exploratory Data Analysis: 
 
+Our initial exploratory data analysis revealed interesting patterns and trends in happiness levels across different countries and regions. We used various visualization techniques, such as bar charts, scatter plots, and choropleth maps, to explore the relationships between happiness scores and the different contributing factors included in the dataset. These visualizations allowed us to identify potential areas for further investigation.
+
 ### Question 1 
 **Is there a significant correlation between different factors that contribute to overall happiness, such as income, social support, freedom, generosity, and corruption, and how can this correlation be used to identify key areas for intervention? Additionally, what evidence-based interventions could be implemented to enhance these key areas and promote sustained and equitable well-being outcomes over time?**
+
+We created visualizations, such as scatter plots and correlation matrices, to analyze the relationships between happiness scores and the contributing factors. Our findings indicated strong positive correlations between happiness levels and factors like income, social support, and freedom, while there were negative correlations with corruption. These results suggest that targeting these key areas for intervention could potentially lead to improved well-being outcomes. Evidence-based interventions could include implementing policies to reduce income inequality, promoting social cohesion, and addressing corruption.
 
 ### Question 2
 **How do different factors contributing to happiness, such as income, social support, freedom, and corruption, vary across different regions in the world, and how do these regional differences affect overall levels of happiness and life satisfaction?**
 
+We used choropleth maps and regional box plots to visualize happiness levels and their associated factors across different regions of the world. Our analysis revealed substantial regional variations in happiness scores and the key influencing factors. For instance, we found that income and social support tend to be higher in Western countries, while freedom and corruption levels vary more widely across regions. These regional differences could affect overall levels of happiness and life satisfaction, highlighting the importance of considering regional contexts when designing interventions.
+
 ### Summary/Conclusion
+
+Our analysis of the World Happiness Report 2015-2022 dataset revealed strong relationships between happiness levels and various contributing factors, such as income, social support, freedom, generosity, and corruption. We identified significant regional variations in happiness scores and their influencing factors, which could affect overall levels of happiness and life satisfaction. These insights can be used to guide data-driven policy-making to improve well-being outcomes for individuals and communities. Furthermore, we developed a user-facing dashboard that allows users to explore the dataset and discover patterns and trends related to happiness levels and their correlates
